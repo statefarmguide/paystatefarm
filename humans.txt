@@ -1,0 +1,4 @@
+Publisher: Insurance Bill Help
+Website: https://statefarmguide.github.io/paystatefarm/
+Last Updated: June 2026
+Purpose: Insurance billing information guide
